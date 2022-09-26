@@ -165,5 +165,5 @@ function agregarGasto(e){
 }
 
 function eliminarGasto(id){
-  presupuesto.eliminarGasto(id)
+  presupuesto.eliminarGasto(id);
 }
